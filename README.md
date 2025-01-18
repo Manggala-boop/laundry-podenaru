@@ -8,7 +8,7 @@ Aplikasi manajemen laundry sederhana yang dapat digunakan untuk mengelola transa
 - Sistem login untuk admin
 - Notifikasi status laundry
 
-## Cara Instalasi
+## Demo Website
 
 1. Clone repository ini:
    ```bash
