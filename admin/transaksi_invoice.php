@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>SISTEM INFORMASI PODENARU LAUNDRY</title>
+    <title>PODENARU LAUNDRY</title>
 
 
     <link rel="stylesheet" type="text/css" href="../assets/css/bootstrap.css">

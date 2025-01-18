@@ -6,7 +6,7 @@ include '../koneksi.php';
 $html = '<!DOCTYPE html>';
 $html .= '<html>';
 $html .= '<head>';
-$html .='   <title>SISTEM INFORMASI FAMILY LAUNDRY</title>';
+$html .='   <title>FAMILY LAUNDRY</title>';
 $html .= '</head>';
 $html .= '<body>';
 $html .= '<center><h2>FAMILY LAUNDRY</h2></center>';
