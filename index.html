@@ -18,18 +18,7 @@
     
     <div class="container">
         <div class="col-md-4 col-md-offset-4">
-            <?php 
-            session_start();
-            if(isset($_GET['pesan'])){
-                if($_GET['pesan'] == "gagal"){
-                    echo "<div class='alert alert-danger'>Login gagal! username dan password salah!</div>";
-                }else if($_GET['pesan'] == "logout"){
-                    echo "<div class='alert alert-info'>Anda telah berhasil logout</div>";
-                }else if($_GET['pesan'] == "belum_login"){
-                    echo "<div class='alert alert-danger'>Anda harus login untuk mengakses halaman admin</div>";
-                }
-            }
-            ?>          
+            <!-- Notifikasi pesan login dihapus karena membutuhkan PHP -->
             
             <form action="login.php" method="post">
                 <div class="panel">
@@ -44,14 +33,11 @@
                             <input type="password" class="form-control" name="password">
                         </div>  
 
-
                         <input type="submit" class="btn btn-primary" value="Log In">                
                     </div>
                     <br/>
                 </div>
             </form>
-
-
         </div>
     </div>
 </body>
