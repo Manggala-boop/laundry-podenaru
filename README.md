@@ -3,13 +3,10 @@
 Aplikasi manajemen laundry sederhana yang dapat digunakan untuk mengelola transaksi dan pelanggan.
 
 ## Fitur
-- Landing Page
-- Login Admin
-- Data Pelanggan
-- Manajemen Transaksi
-- Laporan
-- Atur Harga
-- Invoice
+- Manajemen pelanggan
+- Pencatatan transaksi laundry
+- Sistem login untuk admin
+- Notifikasi status laundry
 
 ## Demo Website
 

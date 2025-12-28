@@ -1,5 +1,5 @@
 <?php 
-$koneksi = mysqli_connect("sql12.freesqldatabase.com","sql12758226","Jud8S842dM","sql12758226","3306");
+$koneksi = mysqli_connect("localhost","root","","db-laundry",);
 if (mysqli_connect_errno()){
 echo "Koneksi database gagal : " . mysqli_connect_error(); 
 }
