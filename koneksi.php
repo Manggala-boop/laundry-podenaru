@@ -1,6 +1,6 @@
 <?php
 $host = "db-laundry.mysql.database.azure.com";
-$user = "sqladmin@db-laundry"; // WAJIB pakai @servername
+$user = "sqladmin"; // WAJIB pakai @servername
 $pass = "@Manggala77";
 $db   = "laundry_podenaru";
 $port = 3306;
