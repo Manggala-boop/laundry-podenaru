@@ -1,6 +1,8 @@
 <?php 
-$koneksi = mysqli_connect("localhost","root","","db-laundry",);
-if (mysqli_connect_errno()){
-echo "Koneksi database gagal : " . mysqli_connect_error(); 
-}
+$koneksi = mysqli_connect(
+    "db-laundry.mysql.database.azure.com",
+    "sqladmin",
+    "@Manggala77",
+    "laundry_podenaru"
+);
 ?> 
