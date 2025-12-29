@@ -1,6 +1,6 @@
 <?php
 $host = "db-laundry.mysql.database.azure.com";
-$user = "sqladmin@db-laundry";
+$user = "sqladmin";
 $pass = "@Manggala77";
 $db   = "laundry_podenaru";
 
