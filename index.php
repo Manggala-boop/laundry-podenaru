@@ -32,7 +32,7 @@
             <a href="#galeri">galeri</a>
             <a href="#review">review</a>
             <a href="#order">order</a>
-            
+            <a href="customer/cek_status.php">Cek Status Pesanan</a>
             <!-- LOGIN ADMIN -->
             <a href="intlogin.php" class="login-btn">login</a>
         </nav>
