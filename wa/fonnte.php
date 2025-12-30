@@ -2,7 +2,7 @@
 
 function kirim_wa($nomor, $pesan)
 {
-    $token = "";
+    $token = "1p1hAQpd2R4SH9Az4YB6";
 
     $curl = curl_init();
 
